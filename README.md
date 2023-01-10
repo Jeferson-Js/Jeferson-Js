@@ -24,8 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javaScript&logoColor=e8bf56&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=red&labelColor=0D1117)&nbsp;
-
-
+![React-Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react_native&logoColor=skyblue&labelColor=0D1117&textColor=white)&nbsp;
  
  ### Main Back-end
  ![PHP](https://img.shields.io/badge/-PhP-0D1117?style=for-the-badge&logo=php&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -33,6 +32,8 @@
  ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&logoColor=skyblue&labelColor=0D1117)&nbsp;
  ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=gray&labelColor=0D1117)&nbsp;
  ![Cplusplus](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=Cplusplus&logoColor=blue&labelColor=0D1117)&nbsp;
+ ![Api](https://img.shields.io/badge/-Api-0D1117?style=for-the-badge&logo=api&logoColor=yellow&labelColor=0D1117)&nbsp;
+ ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green&labelColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -49,10 +50,12 @@
 ![Less](https://img.shields.io/badge/-Less-0D1117?style=for-the-badge&logo=less&logoColor=blue&labelColor=0D1117)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-0D1117?style=for-the-badge&logo=bulma&logoColor=lightgreen&labelColor=0D1117)&nbsp;
 
+
   
 ### Studying in this moment:
 ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=0D1117&textColor=white)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
@@ -60,4 +63,4 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32cd32&height=120&section=footer"/>
