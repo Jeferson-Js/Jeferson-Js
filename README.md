@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="www.Linkedin.com" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%a2c7bb?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
   
 
@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javaScript&logoColor=e8bf56&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=red&labelColor=0D1117)&nbsp;
-![React-Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react_native&logoColor=skyblue&labelColor=0D1117&textColor=white)&nbsp;
+![React_Native](https://img.shields.io/badge/-React_Native-0D1117?style=for-the-badge&logo=react&logoColor=skyblue&labelColor=0D1117&textColor=white)&nbsp;
  
  ### Main Back-end
  ![PHP](https://img.shields.io/badge/-PhP-0D1117?style=for-the-badge&logo=php&logoColor=blue&labelColor=0D1117)&nbsp;
