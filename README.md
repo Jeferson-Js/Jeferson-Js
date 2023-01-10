@@ -21,10 +21,10 @@
 ### Main skills:
 ![Html5](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-Css3-0D1117?style=for-the-badge&logo=Css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=vue&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javaScript&logoColor=e8bf56&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=gray&labelColor=0D1117)&nbsp; 
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=red&labelColor=0D1117)&nbsp;
+
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -37,11 +37,13 @@
 ### Other Knowledge:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=skyblue&labelColor=0D1117)&nbsp;
+![Tailwind](https://img.shields.io/badge/-TailwindCss-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=blue&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=gray&labelColor=0D1117)&nbsp;
+![Cplusplus](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=Cplusplus&logoColor=blue&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   <div align="center">
