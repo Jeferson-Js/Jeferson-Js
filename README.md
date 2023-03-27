@@ -55,6 +55,7 @@
 ![Csharp](https://img.shields.io/badge/-csharp-0D1117?style=for-the-badge&logo=csharpk&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=0D1117&textColor=white)&nbsp;
+![svelte](https://img.shields.io/badge/-svelte-0D1117?style=for-the-badge&logo=svelte&logoColor=green&labelColor=0D1117&textColor=white)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
