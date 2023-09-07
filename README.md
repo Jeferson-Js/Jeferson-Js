@@ -33,8 +33,8 @@ Olá, sou Jeferson Oliveira, um desenvolvedor full-stack apaixonado por criar so
 
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou oportunidades de trabalho:
 
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/seu-linkedin)
-- E-mail: seu-email@example.com
+- GitHub: [github.com/seu-usuario]([https://github.com/seu-usuario](https://github.com/Jeferson-Js))
+- LinkedIn: [linkedin.com/in/seu-linkedin]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jeferson-santos-oliveira/))
+
 
 Estou sempre aberto para novas oportunidades e desafios emocionantes. Vamos criar algo incrível juntos!
