@@ -1,40 +1,48 @@
 # Jeferson Oliveira
-![Sua Imagem de Perfil]("![Uploading banner-youtube.png…]()
-")
+![Sua Imagem de Perfil](link_para_sua_imagem_de_perfil.png)
 
 ## Desenvolvedor Full-Stack
 
-Olá, sou Jeferson Oliveira, um desenvolvedor full-stack apaixonado por criar soluções inovadoras e escaláveis. Com uma vasta experiência em desenvolvimento de software, estou comprometido em entregar produtos de alta qualidade que atendam às necessidades dos clientes.
+Olá, sou Jeferson Oliveira, um apaixonado desenvolvedor full-stack comprometido em criar soluções inovadoras e escaláveis para os desafios tecnológicos. Com uma sólida experiência em desenvolvimento de software, estou focado em oferecer produtos de alta qualidade que atendam às necessidades dos clientes.
 
 ### Linguagens e Tecnologias
 
 #### Front-End
-- ![JavaScript](https://via.placeholder.com/15/F7DF1E/000000?text=+) JavaScript
-- ![HTML5](https://via.placeholder.com/15/E34F26/000000?text=+) HTML5
-- ![CSS3](https://via.placeholder.com/15/1572B6/000000?text=+) CSS3
-- ![React](https://via.placeholder.com/15/61DAFB/000000?text=+) React
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- React
+- Tailwindcss
+- Bootstrap
+- Sass
+- Less
 
 #### Back-End
-- ![Node.js](https://via.placeholder.com/15/68A063/000000?text=+) Node.js
-- ![Python](https://via.placeholder.com/15/3776AB/000000?text=+) Python
-- ![Django](https://via.placeholder.com/15/3776AB/000000?text=+) Django
+- Node.js
+- Python
+- Django
+- Docker
+- Arduino
+- Php
+- Api Rest
 
 #### Banco de Dados
-- ![SQL](https://via.placeholder.com/15/000080/000000?text=+) SQL
-- ![MongoDB](https://via.placeholder.com/15/47A248/000000?text=+) MongoDB
+- SQL
+- MongoDB
+- MySql
 
 ### Projetos Destacados
 
-- **Projeto A (Front-End)**: Sistema de locação de carros com a linguagem python no backend e django no frontend.
-- **Projeto B (Back-End)**: Asistente pessoal desenvolvida com arduino python.
-- **Projeto C (Banco de Dados)**: Sistema de login com node mongodb e django.
+- **Projeto A (Front-End)**: Sistema de locação de carros com Python no backend e Django no frontend.
+- **Projeto B (Back-End)**: Assistente pessoal desenvolvido com Arduino e Python.
+- **Projeto C (Banco de Dados)**: Sistema de login com Node.js e MongoDB.
 
 ### Como Entrar em Contato
 
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou oportunidades de trabalho:
 
-- GitHub: [github.com/seu-usuario]([https://github.com/Jeferson-Js](https://github.com/Jeferson-Js))
-- LinkedIn: [linkedin.com/in/seu-linkedin]([https://www.linkedin.com/in/jeferson-santos-oliveira/](https://www.linkedin.com/in/jeferson-santos-oliveira))
+- GitHub: [github.com/Jeferson-Js](https://github.com/Jeferson-Js)
+- LinkedIn: [linkedin.com/in/jeferson-santos-oliveira](https://www.linkedin.com/in/jeferson-santos-oliveira)
 
-
-Estou sempre aberto para novas oportunidades e desafios emocionantes. Vamos criar algo incrível juntos!
+Estou sempre aberto a novas oportunidades e emocionantes desafios. Vamos criar algo incrível juntos!
