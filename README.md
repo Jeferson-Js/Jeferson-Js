@@ -25,16 +25,16 @@ Olá, sou Jeferson Oliveira, um desenvolvedor full-stack apaixonado por criar so
 
 ### Projetos Destacados
 
-- **Projeto A (Front-End)**: Uma breve descrição do Projeto A e seu objetivo no front-end.
-- **Projeto B (Back-End)**: Uma breve descrição do Projeto B e seu objetivo no back-end.
-- **Projeto C (Banco de Dados)**: Uma breve descrição do Projeto C e seu objetivo no banco de dados.
+- **Projeto A (Front-End)**: Sistema de locação de carros com a linguagem python no backend e django no frontend.
+- **Projeto B (Back-End)**: Asistente pessoal desenvolvida com arduino python.
+- **Projeto C (Banco de Dados)**: Sistema de login com node mongodb e django.
 
 ### Como Entrar em Contato
 
 Fique à vontade para entrar em contato comigo para discussões, colaborações ou oportunidades de trabalho:
 
-- GitHub: [github.com/seu-usuario]([https://github.com/seu-usuario](https://github.com/Jeferson-Js))
-- LinkedIn: [linkedin.com/in/seu-linkedin]([https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/jeferson-santos-oliveira/))
+- GitHub: [github.com/seu-usuario]([https://github.com/Jeferson-Js](https://github.com/Jeferson-Js))
+- LinkedIn: [linkedin.com/in/seu-linkedin]([https://www.linkedin.com/in/jeferson-santos-oliveira/](https://www.linkedin.com/in/jeferson-santos-oliveira))
 
 
 Estou sempre aberto para novas oportunidades e desafios emocionantes. Vamos criar algo incrível juntos!
