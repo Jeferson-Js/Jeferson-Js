@@ -1,5 +1,5 @@
 # Jeferson Oliveira
-![perfil](https://github.com/Jeferson-Js/Jeferson-Js/assets/82729145/6193806d-269f-4ac7-8b71-b6ae93a3bbae)
+![banner-youtube](https://github.com/Jeferson-Js/Jeferson-Js/assets/82729145/627a7354-c0b4-406f-b16d-7cae732ba76d)
 
 ## Desenvolvedor FullStack
 
@@ -17,6 +17,8 @@ Olá, sou Jeferson Oliveira, um apaixonado desenvolvedor fullStack comprometido 
 - <div style="width: 20px; height: 20px; background-color: orange;"></div> Bootstrap
 - <div style="width: 20px; height: 20px; background-color: pink;"></div> Sass
 - <div style="width: 20px; height: 20px; background-color: brown;"></div> Less
+- <div style="width: 20px; height: 20px; background-color: brown;"></div> Vue 3
+- <div style="width: 20px; height: 20px; background-color: brown;"></div> Svelte
 
 #### Back-End
 - <div style="width: 20px; height: 20px; background-color: yellow;"></div> Node.js
