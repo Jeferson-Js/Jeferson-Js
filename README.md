@@ -40,9 +40,9 @@
 
 ### My tools for Data Manipulation:
 
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
+| Vscode | Vstudio | PyCharm | MySQL | Postgres | SQLite |
 |----------|----------|----------|----------|----------|----------|
-|  |
+| ![Viscode](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg) |![Visual studio](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg)| ![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg)|
 
 ### Environments, Testing, Other:
 
