@@ -1,4 +1,4 @@
-# high tech, low life.
+# Oliveira.js
 ---
 
 # About Me
@@ -17,11 +17,8 @@ Join me on my journey as I integrate my passions and skills into unique projects
 
 ---
 
-Feel free to customize this description to better suit your preferences and personality.
-
-## How to reach me :mailbox:
-
 ## Social media: 📡  
+
 
 
 ## Competitions: 🥇
