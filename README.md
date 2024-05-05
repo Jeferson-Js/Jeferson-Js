@@ -43,8 +43,9 @@ Join me on my journey as I integrate my passions and skills into unique projects
 
 ### Languages:
 | HTML5 | CSS3 | JavaScript | Tailwind |
-|----------|----------|----------|-----|
+|----------|----------|--------|-----| 
 | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg) | ![Css3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg) | ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) |![Tailwindcss](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg)|
+
 
 ### Best frameworks and main libraries for Python3:
 
