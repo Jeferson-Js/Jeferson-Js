@@ -1,6 +1,23 @@
 # high tech, low life.
+---
 
-## About Me: 
+# About Me
+
+Hello, fellow developers! 👋
+
+I'm Jeferson Oliveira, a passionate self-taught full-stack programmer with a flair for languages and a dedication to global communication. Fluent in 14 languages, including French, English, Spanish, Chinese, and Arabic, I believe in the power of language to bridge cultures and foster understanding.
+
+In the world of technology, I specialize in robotics, ethical hacking, and information security. My holistic approach reflects a commitment to innovative solutions and the integrity of the systems I develop. With expertise in areas ranging from front-end to back-end development, I thrive on tackling complex challenges and delivering elegant solutions.
+
+Outside of the tech realm, you'll find me indulging in my love for martial arts, honing discipline and dedication in every aspect of life. As a current champion in various disciplines such as Chinese boxing, Muay Thai, jujitsu submission, capoeira, MMA, and traditional boxing, I embrace the balance of mind and body.
+
+As a content creator, I enjoy sharing knowledge and insights online, demystifying complex topics and making them accessible to all. My ability to explain intricate concepts in a simple and engaging manner makes me a valuable asset in the tech community.
+
+Join me on my journey as I integrate my passions and skills into unique projects that push the boundaries of what's possible. Let's collaborate, learn, and grow together!
+
+---
+
+Feel free to customize this description to better suit your preferences and personality.
 
 ## How to reach me :mailbox:
 
